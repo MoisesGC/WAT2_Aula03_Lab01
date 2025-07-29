@@ -1,4 +1,4 @@
-const greeting = 'world';
+const greeting = 'woldd';
 
 
 export function hello(world: string = greeting): string {
